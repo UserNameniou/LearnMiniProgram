@@ -1,0 +1,7 @@
+/* pages/home/home.wxss */
+.title{
+  color:red;       /*文字颜色*/
+  font-size: 40px;   /*文字大小*/
+}
+
+
